@@ -39,3 +39,6 @@ Tingkat 2 Mempelajari Apa Saja ?
 
 
 15. Go Web Server, JSON, and Polymer
+
+
+Source : https://vm.lepkom.gunadarma.ac.id/skema/tingkat2
